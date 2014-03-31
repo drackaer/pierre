@@ -1,0 +1,49 @@
+/**
+ * 
+ */
+package cooking.database;
+
+/**
+ * @author sburton
+ *
+ */
+public class ItemNotFoundException extends Exception {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+	/**
+	 * 
+	 */
+	public ItemNotFoundException() {
+		// TODO Auto-generated constructor stub
+	}
+
+	/**
+	 * @param message
+	 */
+	public ItemNotFoundException(String message) {
+		super(message);
+		// TODO Auto-generated constructor stub
+	}
+
+	/**
+	 * @param cause
+	 */
+	public ItemNotFoundException(Throwable cause) {
+		super(cause);
+		// TODO Auto-generated constructor stub
+	}
+
+	/**
+	 * @param message
+	 * @param cause
+	 */
+	public ItemNotFoundException(String message, Throwable cause) {
+		super(message, cause);
+		// TODO Auto-generated constructor stub
+	}
+
+}

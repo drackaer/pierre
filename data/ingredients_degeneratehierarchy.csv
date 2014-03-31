@@ -1,0 +1,1827 @@
+*linguica
+**linguica
+linguica
+*wagyu
+**wagyu
+wagyu
+*terrine
+**terrine
+terrine
+*oxtail
+**oxtail
+oxtail
+*chourico
+**chourico
+chourico
+*turtle meat
+**turtle meat
+turtle meat
+*giblet
+**giblet
+giblet
+*rattlesnake
+**rattlesnake
+rattlesnake
+*rabbit
+**rabbit
+rabbit
+*squirrel
+**squirrel
+squirrel
+*buffalo
+**buffalo
+buffalo,bison
+*elk meat
+**elk meat
+elk meat
+*bear
+**bear
+bear
+*caribou
+**caribou
+caribou
+*moose
+**moose
+moose
+*tasso
+**tasso
+tasso
+*casing
+**casing
+casing
+*venison
+**venison
+venison
+*duck breast
+**duck breast
+duck breast,duck
+*bratwurst
+**bratwurst
+bratwurst
+*pot roast
+**pot roast
+pot roast,roast
+*bacon
+**bacon
+bacon,crumbled bacon
+*frankfurters
+**frankfurters
+frankfurters,hot dog,hotdog,hog dog
+*pigs feet
+**pigs feet
+pigs feet
+*speck
+**speck
+speck
+*kielbasa
+**kielbasa
+kielbasa
+*mortadella
+**mortadella
+mortadella
+*ground pork
+**ground pork
+ground pork
+*ham
+**ham
+ham
+*pig trotter
+**pig trotter
+pig trotter,pig's feet
+*pig's tail
+**pig's tail
+pig's tail
+*pig's ear
+**pig's ear
+pig's ear
+*spam
+**spam
+spam
+*bologna
+**bologna
+bologna
+*pork neck bone
+**pork neck bone
+pork neck bone
+*pork sausage
+**pork sausage
+pork sausage,chorizo,sausage
+*salami
+**salami
+salami
+*pork sparerib
+**pork sparerib
+pork sparerib,pork rib,loin chop,sparerib,spare rib
+*pork tenderloin
+**pork tenderloin
+pork tenderloin,pork loin,pork stew meat,boneless pork,pork sirloin,pork
+*pancetta
+**pancetta
+pancetta
+*prosciutto
+**prosciutto
+prosciutto,proscuitto
+*pork shoulder
+**pork shoulder
+pork shoulder
+*lamb
+**lamb
+lamb,mutton
+*lean ground lamb
+**lean ground lamb
+lean ground lamb
+*filet mignon
+**filet mignon
+filet mignon
+*brisket
+**brisket
+brisket
+*veal
+**veal
+veal
+*ground venison
+**ground venison
+ground venison
+*marrow bone
+**marrow bone
+marrow bone
+*ground beef
+**ground beef
+ground beef,beef,hamburger,ground round,chuck,meatball
+*vegetarian burger
+**vegetarian burger
+vegetarian burger,crumble
+*meatloaf
+**meatloaf
+meatloaf
+*steak
+**steak
+steak,sirloin,tri-tip
+*tofu
+**tofu
+tofu, firm tofu
+*hen
+**hen
+hen
+*alligator meat
+**alligator meat
+alligator meat
+*chicken
+**chicken
+chicken,fryer,chicken carcass
+*escargot
+**escargot
+escargot
+*pheasant
+**pheasant
+pheasant
+*ground turkey
+**ground turkey
+ground turkey
+*roasted chicken
+**roasted chicken
+roasted chicken
+*chicken breast
+**chicken breast
+chicken breast
+*chicken leg
+**chicken leg
+chicken leg
+*chicken thigh
+**chicken thigh
+chicken thigh
+*turkey
+**turkey
+turkey,carcass
+*shrimp
+**shrimp
+shrimp
+*crayfish
+**crayfish
+crayfish,crawfish
+*lobster
+**lobster
+lobster
+*crab meat
+**crab meat
+crab meat,crab
+*conch
+**conch
+conch
+*clam
+**clam
+clam,vongole
+*quahog
+**quahog
+quahog
+*fish ball
+**fish ball
+fish ball
+*prawns
+**prawns
+prawns
+*cockle
+**cockle
+cockle
+*scallop
+**scallop
+scallop
+*mussel
+**mussel
+mussel
+*oyster
+**oyster
+oyster
+*haddock
+**haddock
+haddock
+*mackerel
+**mackerel
+mackerel
+*octopus
+**octopus
+octopus
+*grouper
+**grouper
+grouper
+*monkfish
+**monkfish
+monkfish
+*squid
+**squid
+squid
+*halibut
+**halibut
+halibut
+*john dory fish
+**john dory fish
+john dory fish,john dory
+*nohu
+**nohu
+nohu
+*opakapaka
+**opakapaka
+opakapaka
+*bonito flake
+**bonito flake
+bonito flake,bonito
+*swordfish
+**swordfish
+swordfish
+*black caviar
+**black caviar
+black caviar,caviar
+*rouget
+**rouget
+rouget
+*red snapper
+**red snapper
+red snapper,snapper
+*striped bass
+**striped bass
+striped bass,bass
+*calamari
+**calamari
+calamari
+*green caviar
+**green caviar
+green caviar
+*rascasse fish
+**rascasse fish
+rascasse fish
+*scorpion fish
+**scorpion fish
+scorpion fish
+*red lump fish caviar
+**red lump fish caviar
+red lump fish caviar
+*catfish filet
+**catfish filet
+catfish filet,catfish
+*fish maw
+**fish maw
+fish maw
+*cod
+**cod
+cod
+*white fish
+**white fish
+white fish,white fleshed fish
+*fish bone
+**fish bone
+fish bone
+*cuttle fish
+**cuttle fish
+cuttle fish
+*masago
+**masago
+masago
+*fish pieces
+**fish pieces
+fish pieces
+*fried fish
+**fried fish
+fried fish,trout
+*sole
+**sole
+sole
+*tripe
+**tripe
+tripe
+*uni
+**uni
+uni
+*red rock fish
+**red rock fish
+red rock fish
+*eel
+**eel
+eel
+*mullet
+**mullet
+mullet
+*anchovie
+**anchovie
+anchovie,anchovy filet,anchovy
+*salmon
+**salmon
+salmon,gravlax,fillet,fillet
+*tuna
+**tuna
+tuna
+*red curry paste
+**red curry paste
+red curry paste,curry paste,masamam
+*green chile
+**green chile
+green chile,chile,chillies,poblano,anaheim
+*habanero pepper
+**habanero pepper
+habanero pepper,habanero chili pepper,habanero
+*jalapeno
+**jalapeno
+jalapeno,jalopeno,jalapeno chile peppers
+*adobo
+**adobo
+adobo
+*serrano pepper
+**serrano pepper
+serrano pepper
+*yellow wax peppers
+**yellow wax peppers
+yellow wax peppers
+*capsicum
+**capsicum
+capsicum
+*poblanos
+**poblanos
+poblanos
+*chile pepper
+**chile pepper
+chile pepper,pimento,chilies,chili pepper
+*chipotle chili pepper
+**chipotle chili pepper
+chipotle chili pepper,chipotle pepper,chipotle,chioptles
+*pequin chile pepper
+**pequin chile pepper
+pequin chile pepper
+*red bell pepper
+**red bell pepper
+red bell pepper,red peppers,bell pepper,green bell pepper,green pepper,yellow bell pepper,yellow pepper,orange bell pepper
+*butter beans
+**butter beans
+butter beans
+*fava bean
+**fava bean
+fava bean
+*refried bean
+**refried bean
+refried bean,bean,baked bean
+*garbanzo bean
+**garbanzo bean
+garbanzo bean,garbanzo
+*green bean
+**green bean
+green bean,haricot
+*red kidney bean
+**red kidney bean
+red kidney bean,kidney bean
+*white kidney bean
+**white kidney bean
+white kidney bean,navy bean
+*lima bean
+**lima bean
+lima bean
+*pinto bean
+**pinto bean
+pinto bean
+*red bean
+**red bean
+red bean
+*white bean
+**white bean
+white bean,northern bean
+*black bean
+**black bean
+black bean
+*black soy bean
+**black soy bean
+black soy bean,soy bean
+*black-eyed pea
+**black-eyed pea
+black-eyed pea,blackeyed pea
+*cannellini bean
+**cannellini bean
+cannellini bean
+*chickpea
+**chickpea
+chickpea
+*hummus
+**hummus
+hummus
+*chili bean
+**chili bean
+chili bean
+*lentil
+**lentil
+lentil
+*cherry pie filling
+**cherry pie filling
+cherry pie filling
+*cherry
+**cherry
+cherry,cherries
+*date
+**date
+date
+*prune
+**prune
+prune
+*lychee
+**lychee
+lychee
+*muscat
+**muscat
+muscat
+*white seedless grape
+**white seedless grape
+white seedless grape,seedless grape,white grape
+*muscatel grape
+**muscatel grape
+muscatel grape
+*red seedless grape
+**red seedless grape
+red seedless grape,grape
+*seedless green grape
+**seedless green grape
+seedless green grape
+*blackberry
+**blackberry
+blackberry,blackberries
+*juniper berry
+**juniper berry
+juniper berry, juniper berries
+*raspberry
+**raspberry
+raspberry,raspberries
+*strawberry
+**strawberry
+strawberry,strawberries
+*cranberry
+**cranberry
+cranberry,cranberries
+*blueberry
+**blueberry
+blueberry,blueberries
+*wheat berry
+**wheat berry
+wheat berry,wheat berries
+*raisin
+**raisin
+raisin
+*black olive
+**black olive
+black olive,olive
+*tamarind
+**tamarind
+tamarind,tamarind paste
+*currant
+**currant
+currant
+*fig
+**fig
+fig
+*melon
+**melon
+melon
+*ackee
+**ackee
+ackee
+*hearts of palm
+**hearts of palm
+hearts of palm
+*lemon
+**lemon
+lemon
+*yuzu
+**yuzu
+yuzu
+*chayote
+**chayote
+chayote
+*grapefruit
+**grapefruit
+grapefruit
+*plantain
+**plantain
+plantain
+*cassava
+**cassava
+cassava
+*calabaza
+**calabaza
+calabaza
+*faro
+**faro
+faro
+*pith
+**pith
+pith
+*banana
+**banana
+banana
+*crenshaw melon
+**crenshaw melon
+crenshaw melon
+*tangerine
+**tangerine
+tangerine
+*pomelo
+**pomelo
+pomelo
+*lime
+**lime
+lime
+*mango
+**mango
+mango
+*peach
+**peach
+peach
+*pineapple
+**pineapple
+pineapple
+*apple
+**apple
+apple
+*applesauce
+**applesauce
+applesauce
+*canteloupe
+**canteloupe
+canteloupe,cantaloupe
+*apricot
+**apricot
+apricot
+*avocado
+**avocado
+avocado
+*orange
+**orange
+orange
+*papaya
+**papaya
+papaya
+*tomatillo
+**tomatillo
+tomatillo
+*roma tomato
+**roma tomato
+roma tomato,tomato
+*tomato paste
+**tomato paste
+tomato paste
+*tomato puree
+**tomato puree
+tomato puree,tomato sauce
+*stewed tomato
+**stewed tomato
+stewed tomato
+*crushed tomato
+**crushed tomato
+crushed tomato
+*chopped tomato
+**chopped tomato
+chopped tomato
+*diced tomato
+**diced tomato
+diced tomato
+*spaghetti sauce
+**spaghetti sauce
+spaghetti sauce
+*tatsoi leaves
+**tatsoi leaves
+tatsoi leaves,tatsoi
+*lettuce
+**lettuce
+lettuce
+*salad
+**salad
+salad
+*endive
+**endive
+endive
+*radicchio
+**radicchio
+radicchio,chicory
+*escarole
+**escarole
+escarole
+*romaine
+**romaine
+romaine
+*spinach
+**spinach
+spinach
+*red leaf lettuce
+**red leaf lettuce
+red leaf lettuce
+*cabbage
+**cabbage
+cabbage
+*brussels sprouts
+**brussels sprouts
+brussels sprouts
+*sauerkraut
+**sauerkraut
+sauerkraut
+*bok choy
+**bok choy
+bok choy
+*leek
+**leek
+leek,ramp
+*green onion
+**green onion
+green onion,scallion
+*chive baton
+**chive baton
+chive baton
+*red onion
+**red onion
+red onion
+*spanish onion
+**spanish onion
+spanish onion
+*white onion
+**white onion
+white onion,onion
+*shallot
+**shallot
+shallot
+*yellow onion
+**yellow onion
+yellow onion
+*zucchini
+**zucchini
+zucchini
+*cucumber
+**cucumber
+cucumber
+*sweet yam
+**sweet yam
+sweet yam,yam
+*pumpkin puree
+**pumpkin puree
+pumpkin puree
+*pumpkin
+**pumpkin
+pumpkin
+*squash
+**squash
+squash
+*acorn squash
+**acorn squash
+acorn squash
+*eggplant
+**eggplant
+eggplant
+*pickle
+**pickle
+pickle
+*taro
+**taro
+taro
+*corn kernel
+**corn kernel
+corn kernel
+*cream-style corn
+**cream-style corn
+cream-style corn
+*fresh corn
+**fresh corn
+fresh corn,corn
+*sweet pea
+**sweet pea
+sweet pea
+*pea
+**pea
+pea,fresh pea,snow pea,green pea
+*yellow pea
+**yellow pea
+yellow pea
+*potato
+**potato
+potato,yukon gold
+*hash brown
+**hash brown
+hash brown
+*french fries
+**french fries
+french fries,spicy fries
+*potato mix
+**potato mix
+potato mix
+*rutabaga
+**rutabaga
+rutabaga
+*solferino
+**solferino
+solferino
+*artichoke
+**artichoke
+artichoke
+*baby artichoke
+**baby artichoke
+baby artichoke
+*horseradish
+**horseradish
+horseradish
+*radish
+**radish
+radish
+*daikon
+**daikon
+daikon
+*beet
+**beet
+beet
+*parsnip
+**parsnip
+parsnip
+*turnip
+**turnip
+turnip
+*chard
+**chard
+chard
+*asparagus
+**asparagus
+asparagus
+*broccoli
+**broccoli
+broccoli
+*cauliflower
+**cauliflower
+cauliflower
+*julienne
+**julienne
+julienne
+*truffle
+**truffle
+truffle
+*celery
+**celery
+celery,celeriac
+*bamboo shoot
+**bamboo shoot
+bamboo shoot
+*carrot
+**carrot
+carrot
+*fennel
+**fennel
+fennel
+*mixed vegetables
+**mixed vegetables
+mixed vegetables,vegetable blend,vegetables,mixed garden vegetable,mixed greens,greens
+*edamame
+**edamame
+edamame
+*mahogany
+**mahogany
+mahogany,mahoganies
+*brunoise
+**brunoise
+brunoise
+*jicama
+**jicama
+jicama
+*yucca
+**yucca
+yucca
+*fungi
+**fungi
+fungi
+*shiitake mushroom
+**shiitake mushroom
+shiitake mushroom,shiitake
+*portabella cap
+**portabella cap
+portabella cap,portobello
+*mushroom
+**mushroom
+mushroom
+*morel
+**morel
+morel
+*porcini mushroom
+**porcini mushroom
+porcini mushroom,porcini
+*white mushroom
+**white mushroom
+white mushroom
+*asiago
+**asiago
+asiago
+*gouda
+**gouda
+gouda
+*halloumi
+**halloumi
+halloumi
+*swiss
+**swiss
+swiss
+*brie
+**brie
+brie
+*cheddar cheese
+**cheddar cheese
+cheddar cheese, cheddar
+*mozzarella
+**mozzarella
+mozzarella,cheese,queso
+*fontina
+**fontina
+fontina
+*gruyere
+**gruyere
+gruyere
+*monterey
+**monterey
+monterey
+*stilton
+**stilton
+stilton
+*pecorino
+**pecorino
+pecorino
+*provolone
+**provolone
+provolone
+*parmesan cheese
+**parmesan cheese
+parmesan cheese,parmesan,parmigiano
+*romano
+**romano
+romano
+*mayonnaise
+**mayonnaise
+mayonnaise
+*ranch salad dressing
+**ranch salad dressing
+ranch salad dressing
+*butter
+**butter
+butter,margarine
+*ghee
+**ghee
+ghee
+*egg
+**egg
+egg
+*egg yolk
+**egg yolk
+egg yolk
+*eggwash
+**eggwash
+eggwash
+*hard boiled egg
+**hard boiled egg
+hard boiled egg
+*milk
+**milk
+milk
+*buttermilk
+**buttermilk
+buttermilk
+*coconut milk
+**coconut milk
+coconut milk
+*evaporated milk
+**evaporated milk
+evaporated milk
+*sour cream
+**sour cream
+sour cream
+*half-and-half
+**half-and-half
+half-and-half,cream,crema,creme,garnish,half and half,half-n-half
+*whipping cream
+**whipping cream
+whipping cream
+*mascarpone
+**mascarpone
+mascarpone
+*yogurt
+**yogurt
+yogurt
+*gelatin
+**gelatin
+gelatin
+*gelee bavaroise
+**gelee bavaroise
+gelee bavaroise
+*tapioca
+**tapioca
+tapioca
+*seafood broth
+**seafood broth
+seafood broth,seafood base,dashi,fish fumet
+*slurry
+**slurry
+slurry
+*beef bouillon
+**beef bouillon
+beef bouillon
+*verjus
+**verjus
+verjus
+*carbonated
+**carbonated
+carbonated,sprite,soft drink
+*chicken bouillon
+**chicken bouillon
+chicken bouillon,bouillon
+*chicken broth
+**chicken broth
+chicken broth,chicken stock,broth,soup base,soup,brodo
+*condensed soup
+**condensed soup
+condensed soup
+*tomato soup
+**tomato soup
+tomato soup
+*gazpacho
+**gazpacho
+gazpacho
+*vegetable stock
+**vegetable stock
+vegetable stock
+*fish stock
+**fish stock
+fish stock
+*liquid smoke
+**liquid smoke
+liquid smoke,liquid mesquite smoke
+*stock
+**stock
+stock
+*vegetable broth
+**vegetable broth
+vegetable broth
+*water
+**water
+water
+*ice
+**ice
+ice
+*club soda
+**club soda
+club soda
+*seltzer
+**seltzer
+seltzer
+*coffee
+**coffee
+coffee
+*green tea
+**green tea
+green tea
+*black tea
+**black tea
+black tea, Lapsang Souchong
+*passion fruit puree
+**passion fruit puree
+passion fruit puree,tropical puree
+*maple syrup
+**maple syrup
+maple syrup
+*cane syrup
+**cane syrup
+cane syrup
+*apple cider
+**apple cider
+apple cider
+*lemon juice
+**lemon juice
+lemon juice
+*lime juice
+**lime juice
+lime juice
+*white grape juice
+**white grape juice
+white grape juice
+*orange juice
+**orange juice
+orange juice
+*vegetable juice
+**vegetable juice
+vegetable juice, tomato juice,v-8 juice
+*honey
+**honey
+honey
+*molasses
+**molasses
+molasses
+*chocolate syrup
+**chocolate syrup
+chocolate syrup
+*port
+**port
+port
+*scotch
+**scotch
+scotch
+*vinaigrette
+**vinaigrette
+vinaigrette
+*sake
+**sake
+sake
+*brandy
+**brandy
+brandy
+*cognac
+**cognac
+cognac
+*whiskey
+**whiskey
+whiskey,whisky
+*rum
+**rum
+rum
+*grappa
+**grappa
+grappa
+*sparkling cider
+**sparkling cider
+sparkling cider
+*pickle juice
+**pickle juice
+pickle juice
+*balsamic vinegar
+**balsamic vinegar
+balsamic vinegar
+*vermouth
+**vermouth
+vermouth
+*beer
+**beer
+beer,tequila,quervo
+*vodka
+**vodka
+vodka
+*mexican lager
+**mexican lager
+mexican lager
+*harp lager
+**harp lager
+harp lager
+*negro mordelo
+**negro mordelo
+negro mordelo
+*pernod
+**pernod
+pernod
+*banana liqueur
+**banana liqueur
+banana liqueur
+*melon liqueur
+**melon liqueur
+melon liqueur
+*merlot wine
+**merlot wine
+merlot wine
+*red wine
+**red wine
+red wine,marsala,burgandy,red Cabernet Sauvignon
+*red wine vinegar
+**red wine vinegar
+red wine vinegar
+*rice vinegar
+**rice vinegar
+rice vinegar,rice wine vinegar
+*sherry
+**sherry
+sherry
+*vinegar
+**vinegar
+vinegar
+*white vinegar
+**white vinegar
+white vinegar
+*schnapps
+**schnapps
+schnapps
+*white wine
+**white wine
+white wine, wine,ale,bourbon,kentucky bourbon,madeira
+*cider vinegar
+**cider vinegar
+cider vinegar
+*hard cider
+**hard cider
+hard cider
+*gin
+**gin
+gin
+*kitchen bouquet
+**kitchen bouquet
+kitchen bouquet,gravy,browning sauce,brown sauce
+*minestrone
+**minestrone
+minestrone
+*mushroom soup
+**mushroom soup
+mushroom soup
+*onion soup
+**onion soup
+onion soup
+*chili
+**chili
+chili
+*stew
+**stew
+stew
+*cream of chicken
+**cream of chicken
+cream of chicken
+*olive oil
+**olive oil
+olive oil
+*duck fat
+**duck fat
+duck fat
+*white truffle oil
+**white truffle oil
+white truffle oil
+*lard
+**lard
+lard
+*roux
+**roux
+roux
+*foie gras
+**foie gras
+foie gras
+*shortening
+**shortening
+shortening
+*vegetable oil
+**vegetable oil
+vegetable oil,oil,canola oil
+*corn oil
+**corn oil
+corn oil
+*bacon drippings
+**bacon drippings
+bacon drippings
+*sambal oelek
+**sambal oelek
+sambal oelek, sambal, samba oelek
+*harissa
+**harissa
+harissa
+*chili paste
+**chili paste
+chili paste,chile paste
+*sesame paste
+**sesame paste
+sesame paste
+*chipotle paste
+**chipotle paste
+chipotle paste
+*tom yam hot and sour paste
+**tom yam hot and sour paste
+tom yam hot and sour paste
+*savory
+**savory
+savory
+*pistou
+**pistou
+pistou
+*stir-fry sauce
+**stir-fry sauce
+stir-fry sauce
+*rustic rub
+**rustic rub
+rustic rub,rub
+*sambal oelek
+**sambal oelek
+sambal oelek
+*adobo
+**adobo
+adobo
+*tahini
+**tahini
+tahini
+*smoked sweet mole
+**smoked sweet mole
+smoked sweet mole
+*barbeque sauce
+**barbeque sauce
+barbeque sauce,bar-b-que sauce,barbecue sauce,bbq sauce,woodyard original sauce
+*annato seed paste
+**annato seed paste
+annato seed paste
+*anchovy paste
+**anchovy paste
+anchovy paste
+*chile sauce
+**chile sauce
+chile sauce,hot sauce,picante sauce,sriracha sauce,mexican sauce,tabasco,green sauce,sriracha,rouille
+*enchilada sauce
+**enchilada sauce
+enchilada sauce
+*taco sauce
+**taco sauce
+taco sauce
+*ketchup
+**ketchup
+ketchup
+*cocktail sauce
+**cocktail sauce
+cocktail sauce
+*mango chutney
+**mango chutney
+mango chutney
+*ranch dressing
+**ranch dressing
+ranch dressing
+*sloppy joe sauce
+**sloppy joe sauce
+sloppy joe sauce
+*soy sauce
+**soy sauce
+soy sauce,fish sauce,hoisin sauce
+*teriyaki sauce
+**teriyaki sauce
+teriyaki sauce
+*puttanesca sauce
+**puttanesca sauce
+puttanesca sauce
+*steak sauce
+**steak sauce
+steak sauce
+*pesto
+**pesto
+pesto
+*marinara
+**marinara
+marinara
+*wasabi
+**wasabi
+wasabi
+*salsa
+**salsa
+salsa
+*worcestershire
+**worcestershire
+worcestershire
+*yellow mustard
+**yellow mustard
+yellow mustard
+*dijon mustard
+**dijon mustard
+dijon mustard
+*dry mustard
+**dry mustard
+dry mustard,mustard
+*vanilla
+**vanilla
+vanilla
+*mirin
+**mirin
+mirin
+*guacamole
+**guacamole
+guacamole
+*baking chocolate
+**baking chocolate
+baking chocolate,semisweet chocolate chip,bittersweet chocolate,unsweetened chocolate,chocolate
+*baking cocoa
+**baking cocoa
+baking cocoa,unsweetened cocoa,cacao,cocoa,cocoa powder
+*brown sugar
+**brown sugar
+brown sugar
+*peen tong
+**peen tong
+peen tong
+*hot chocolate mix
+**hot chocolate mix
+hot chocolate mix
+*orzo
+**orzo
+orzo
+*white sugar
+**white sugar
+white sugar,sugar,glucose,splenda
+*celery salt
+**celery salt
+celery salt
+*salt
+**salt
+salt,sea salt,fleur de sel
+*salt and pepper
+**salt and pepper
+salt and pepper,salt and freshly ground black pepper
+*pepper
+**pepper
+pepper,black pepper
+*meat tenderizer
+**meat tenderizer
+meat tenderizer
+*sorrel
+**sorrel
+sorrel
+*mixed spice
+**mixed spice
+mixed spice
+*epazote
+**epazote
+epazote
+*achiote
+**achiote
+achiote,achiote powder
+*fenugreek seeds
+**fenugreek seeds
+fenugreek seeds
+*flax seed
+**flax seed
+flax seed
+*file powder
+**file powder
+file powder
+*zatar
+**zatar
+zatar
+*coconut
+**coconut
+coconut
+*turmeric
+**turmeric
+turmeric,tumeric
+*emeril's southwest essence
+**emeril's southwest essence
+emeril's southwest essence,essence,southwest seasoning
+*star anise
+**star anise
+star anise
+*mace
+**mace
+mace
+*white peppercorn
+**white peppercorn
+white peppercorn,peppercorn
+*chive
+**chive
+chive
+*fresh parsley
+**fresh parsley
+fresh parsley,parsley
+*lovage
+**lovage
+lovage
+*chervil
+**chervil
+chervil,chevril
+*barley
+**barley
+barley
+*baby arugula
+**baby arugula
+baby arugula,arugula
+*lemon grass
+**lemon grass
+lemon grass
+*herbs de provence
+**herbs de provence
+herbs de provence,fines herbs,herbes de provence,herbs
+*dill
+**dill
+dill,dill weed
+*caper
+**caper
+caper
+*garlic
+**garlic
+garlic
+*ginger
+**ginger
+ginger
+*galangal
+**galangal
+galangal
+*coriander
+**coriander
+coriander,cilantro
+*porcini powder
+**porcini powder
+porcini powder
+*asafoetida powder
+**asafoetida powder
+asafoetida powder
+*saffron
+**saffron
+saffron
+*basil
+**basil
+basil
+*bay leaf
+**bay leaf
+bay leaf,bay leaves
+*cajun seasoning
+**cajun seasoning
+cajun seasoning,cajun
+*cayenne pepper
+**cayenne pepper
+cayenne pepper,cayenne
+*red pepper
+**red pepper
+red pepper
+*cardamom pod
+**cardamom pod
+cardamom pod, cardamom
+*chili powder
+**chili powder
+chili powder,chile powder,chipotle powder,ground chipotle
+*cinnamon
+**cinnamon
+cinnamon
+*cinnamon stick
+**cinnamon stick
+cinnamon stick
+*clove
+**clove
+clove,whole clove
+*cumin
+**cumin
+cumin
+*curry powder
+**curry powder
+curry powder
+*garlic powder
+**garlic powder
+garlic powder
+*mint
+**mint
+mint
+*mustard powder
+**mustard powder
+mustard powder
+*nutmeg
+**nutmeg
+nutmeg
+*onion powder
+**onion powder
+onion powder
+*oregano
+**oregano
+oregano
+*paprika
+**paprika
+paprika
+*rosemary
+**rosemary
+rosemary
+*sage
+**sage
+sage
+*thyme
+**thyme
+thyme
+*masala
+**masala
+masala
+*allspice
+**allspice
+allspice,jamaica pepper,all spice,five-spice
+*wasabe
+**wasabe
+wasabe
+*italian seasoning
+**italian seasoning
+italian seasoning,goya adobo,seasoning,chili seasoning mix,sabor italia,bouquet,special spice,italian herb
+*miso
+**miso
+miso
+*marjoram
+**marjoram
+marjoram
+*orange zest
+**orange zest
+orange zest,zest of one medium orange
+*tarragon
+**tarragon
+tarragon
+*pumpkin pie spice
+**pumpkin pie spice
+pumpkin pie spice
+*taco seasoning
+**taco seasoning
+taco seasoning
+*baking soda
+**baking soda
+baking soda
+*baking powder
+**baking powder
+baking powder
+*curry leaves
+**curry leaves
+curry leaves, fresh curry
+*red food coloring
+**red food coloring
+red food coloring
+*blue food coloring
+**blue food coloring
+blue food coloring
+*yellow food coloring
+**yellow food coloring
+yellow food coloring
+*cooking spray
+**cooking spray
+cooking spray
+*alder wood
+**alder wood
+alder wood
+*stuffing
+**stuffing
+stuffing
+*cracker
+**cracker
+cracker
+*asiago crostini
+**asiago crostini
+asiago crostini,crostini
+*crouton
+**crouton
+crouton
+*croute
+**croute
+croute
+*panini
+**panini
+panini
+*brioche
+**brioche
+brioche
+*baguette
+**baguette
+baguette
+*pie crust
+**pie crust
+pie crust,crust
+*ciabatta
+**ciabatta
+ciabatta
+*pretzel rods
+**pretzel rods
+pretzel rods
+*pita chips
+**pita chips
+pita chips,pita
+*crescent roll
+**crescent roll
+crescent roll
+*brown and serve roll
+**brown and serve roll
+brown and serve roll,rolls
+*matzoh ball
+**matzoh ball
+matzoh ball,matzo ball
+*wanton
+**wanton
+wanton,wonton
+*sourdough round
+**sourdough round
+sourdough round,sourdough
+*french bread
+**french bread
+french bread,bread,toast
+*tortilla
+**tortilla
+tortilla
+*kataifi
+**kataifi
+kataifi
+*bun
+**bun
+bun,hot dog bun
+*cornbread
+**cornbread
+cornbread
+*french bread
+**french bread
+french bread
+*biscuit
+**biscuit
+biscuit
+*muffin mix
+**muffin mix
+muffin mix
+*burger roll
+**burger roll
+burger roll
+*cornmeal
+**cornmeal
+cornmeal,masa harina
+*polenta
+**polenta
+polenta
+*bulgur wheat
+**bulgur wheat
+bulgur wheat,bulgur
+*flour
+**flour
+flour
+*semolina
+**semolina
+semolina
+*yeast
+**yeast
+yeast
+*matzo meal
+**matzo meal
+matzo meal,matzoh meal
+*buckwheat
+**buckwheat
+buckwheat
+*cornstarch
+**cornstarch
+cornstarch
+*grits
+**grits
+grits,hominy
+*bread crumb
+**bread crumb
+bread crumb
+*Kellogg's* All-Bran* Original cereal
+**Kellogg's* All-Bran* Original cereal
+Kellogg's* All-Bran* Original cereal
+*okra
+**okra
+okra
+*tortilla chip
+**tortilla chip
+tortilla chip,chips
+*vegetable protein
+**vegetable protein
+vegetable protein,monosodium glutamate,dextrose
+*ascorbic acid
+**ascorbic acid
+ascorbic acid
+*corn chip
+**corn chip
+corn chip
+*jasmine rice
+**jasmine rice
+jasmine rice
+*rice
+**rice
+rice,uncooked rice
+*brown rice
+**brown rice
+brown rice
+*quinoa
+**quinoa
+quinoa
+*oats
+**oats
+oats
+*trahana
+**trahana
+trahana
+*madaleine
+**madaleine
+madaleine
+*yam noodles
+**yam noodles
+yam noodles
+*cellophane noodles
+**cellophane noodles
+cellophane noodles
+*yaki-soba
+**yaki-soba
+yaki-soba
+*udon noodle
+**udon noodle
+udon noodle,udon
+*egg noodles
+**egg noodles
+egg noodles
+*wanton wrapper
+**wanton wrapper
+wanton wrapper,wrapper
+*nori
+**nori
+nori,seaweed,kombu,kelp
+*konbu
+**konbu
+konbu
+*couscous
+**couscous
+couscous
+*fettuccine
+**fettuccine
+fettuccine,angel hair,macaroni,pasta,pastina,fettucine,rivel
+*penne
+**penne
+penne
+*linguini
+**linguini
+linguini
+*spaghetti
+**spaghetti
+spaghetti,noodle
+*fregola
+**fregola
+fregola
+*vermicelli
+**vermicelli
+vermicelli
+*ditalini pasta
+**ditalini pasta
+ditalini pasta
+*tortellini
+**tortellini
+tortellini
+*fennel seed
+**fennel seed
+fennel seed
+*sesame seed
+**sesame seed
+sesame seed
+*caraway seed
+**caraway seed
+caraway seed
+*annatto seed
+**annatto seed
+annatto seed,annatto
+*sunflower seed
+**sunflower seed
+sunflower seed
+*almond
+**almond
+almond
+*cashew
+**cashew
+cashew
+*pine nut
+**pine nut
+pine nut,pignoli
+*peanut
+**peanut
+peanut
+*roasted peanut
+**roasted peanut
+roasted peanut
+*peanut butter
+**peanut butter
+peanut butter
+*chestnut
+**chestnut
+chestnut
+*macadamia nut
+**macadamia nut
+macadamia nut
+*hazelnut
+**hazelnut
+hazelnut
+*walnut
+**walnut
+walnut
+*pistachio
+**pistachio
+pistachio
+*carmelized pecan
+**carmelized pecan
+carmelized pecan,pecan
+*pastry dough
+**pastry dough
+pastry dough
+*amaretti
+**amaretti
+amaretti

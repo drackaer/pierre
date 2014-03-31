@@ -1,4 +1,0 @@
-pierre
-======
-
-Computational Cooking Project

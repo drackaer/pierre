@@ -1,0 +1,653 @@
+*Meats,3.0
+**Crazy Meats,3.0
+linguica
+wagyu
+terrine
+oxtail
+chourico
+turtle meat
+giblet
+rattlesnake
+rabbit
+squirrel
+buffalo,bison
+elk meat
+bear
+caribou
+moose
+tasso
+casing
+venison
+duck breast,duck
+**Pig and Lamb Meat,3.0
+bratwurst
+pot roast,roast
+bacon,crumbled bacon
+frankfurters,hot dog,hotdog,hog dog
+pigs feet
+speck
+kielbasa
+mortadella
+ground pork
+ham
+pig trotter,pig's feet
+pig's tail
+pig's ear
+spam
+bologna
+pork neck bone
+pork sausage,chorizo,sausage
+salami
+pork sparerib,pork rib,loin chop,sparerib,spare rib
+pork tenderloin,pork loin,pork stew meat,boneless pork,pork sirloin,pork
+pancetta
+prosciutto,proscuitto
+pork shoulder
+lamb,mutton
+lean ground lamb
+**Cow Meat,3.0
+filet mignon
+brisket
+veal
+ground venison
+marrow bone
+ground beef,beef,hamburger,ground round,chuck,meatball
+vegetarian burger,crumble
+meatloaf
+steak,sirloin,tri-tip
+tofu, firm tofu
+**White Meat,3.0
+hen
+alligator meat
+chicken,fryer,chicken carcass
+escargot
+pheasant
+ground turkey
+roasted chicken
+chicken breast
+chicken leg
+chicken thigh
+turkey,carcass
+**Shellfish
+shrimp
+crayfish,crawfish
+lobster
+crab meat,crab
+conch
+clam,vongole
+quahog
+fish ball
+prawns
+cockle
+scallop
+mussel
+oyster
+**Fish,3.0
+haddock
+mackerel
+octopus
+grouper
+monkfish
+squid
+halibut
+john dory fish,john dory
+nohu
+opakapaka
+bonito flake,bonito
+swordfish
+black caviar,caviar
+rouget
+red snapper,snapper
+striped bass,bass
+calamari
+green caviar
+rascasse fish
+scorpion fish
+red lump fish caviar
+catfish filet,catfish
+fish maw
+cod
+white fish,white fleshed fish
+fish bone
+cuttle fish
+masago
+fish pieces
+fried fish,trout
+sole
+tripe
+uni
+red rock fish
+eel
+mullet
+anchovie,anchovy filet,anchovy
+salmon,gravlax,fillet,fillet
+tuna
+*Fruits and Vegetables,3.0
+**Chilis,2.0
+red curry paste,curry paste,masamam
+green chile,chile,chillies,poblano,anaheim
+habanero pepper,habanero chili pepper,habanero
+jalapeno,jalopeno,jalapeno chile peppers
+adobo
+serrano pepper
+yellow wax peppers
+capsicum
+poblanos
+chile pepper,pimento,chilies,chili pepper
+chipotle chili pepper,chipotle pepper,chipotle,chioptles
+pequin chile pepper
+red bell pepper,red peppers,bell pepper,green bell pepper,green pepper,yellow bell pepper,yellow pepper,orange bell pepper
+**Beans,1.0
+butter beans
+fava bean
+refried bean,bean,baked bean
+garbanzo bean,garbanzo
+green bean,haricot
+red kidney bean,kidney bean
+white kidney bean,navy bean
+lima bean
+pinto bean
+red bean
+white bean,northern bean
+black bean
+black soy bean,soy bean
+black-eyed pea,blackeyed pea
+cannellini bean
+chickpea
+hummus
+chili bean
+lentil
+**Berry and Grapes,1.0
+cherry pie filling
+cherry,cherries
+date
+prune
+lychee
+muscat
+white seedless grape,seedless grape,white grape
+muscatel grape
+red seedless grape,grape
+seedless green grape
+blackberry,blackberries
+juniper berry, juniper berries
+raspberry,raspberries
+strawberry,strawberries
+cranberry,cranberries
+blueberry,blueberries
+wheat berry,wheat berries
+raisin
+black olive,olive
+**Fruits,4.0
+tamarind,tamarind paste
+currant
+fig
+melon
+ackee
+hearts of palm
+lemon
+yuzu
+chayote
+grapefruit
+plantain
+cassava
+calabaza
+faro
+pith
+banana
+crenshaw melon
+tangerine
+pomelo
+lime
+mango
+peach
+pineapple
+apple
+applesauce
+canteloupe,cantaloupe
+apricot
+avocado
+orange
+papaya
+**Tomatos,3.0
+tomatillo
+roma tomato,tomato
+tomato paste
+tomato puree,tomato sauce
+stewed tomato
+crushed tomato
+chopped tomato
+diced tomato
+spaghetti sauce
+**Leafy Vegetables
+tatsoi leaves,tatsoi
+lettuce
+salad
+endive
+radicchio,chicory
+escarole
+romaine
+spinach
+red leaf lettuce
+cabbage
+brussels sprouts
+sauerkraut
+bok choy
+**Onions
+leek,ramp
+green onion,scallion
+chive baton
+red onion
+spanish onion
+white onion,onion
+shallot
+yellow onion
+**Squash Vegetables
+zucchini
+cucumber
+sweet yam,yam
+pumpkin puree
+pumpkin
+squash
+acorn squash
+eggplant
+pickle
+**Corn and Peas
+taro
+corn kernel
+cream-style corn
+fresh corn,corn
+sweet pea
+pea,fresh pea,snow pea,green pea
+yellow pea
+**Root Vegetables
+potato,yukon gold
+hash brown
+french fries,spicy fries
+potato mix
+rutabaga
+solferino
+artichoke
+baby artichoke
+horseradish
+radish
+daikon
+beet
+parsnip
+turnip
+chard
+asparagus
+broccoli
+cauliflower
+julienne
+truffle
+celery,celeriac
+bamboo shoot
+carrot
+fennel
+mixed vegetables,vegetable blend,vegetables,mixed garden vegetable,mixed greens,greens
+edamame
+mahogany,mahoganies
+brunoise
+jicama
+yucca
+**Mushrooms
+fungi
+shiitake mushroom,shiitake
+portabella cap,portobello
+mushroom
+morel
+porcini mushroom,porcini
+white mushroom
+*Dairy,1.0
+**Cheese
+asiago
+gouda
+halloumi
+swiss
+brie
+cheddar cheese, cheddar
+mozzarella,cheese,queso
+fontina
+gruyere
+monterey
+stilton
+pecorino
+provolone
+parmesan cheese,parmesan,parmigiano
+romano
+**Creams and Eggs
+mayonnaise
+ranch salad dressing
+butter,margarine
+ghee
+egg
+egg yolk
+eggwash
+hard boiled egg
+milk
+buttermilk
+coconut milk
+evaporated milk
+sour cream
+half-and-half,cream,crema,creme,garnish,half and half,half-n-half
+whipping cream
+mascarpone
+yogurt
+gelatin
+gelee bavaroise
+tapioca
+*Liquids
+**Broths and Water,8.0
+seafood broth,seafood base,dashi,fish fumet
+slurry
+beef bouillon
+verjus
+carbonated,sprite,soft drink
+chicken bouillon,bouillon
+chicken broth,chicken stock,broth,soup base,soup,brodo
+condensed soup
+tomato soup
+gazpacho
+vegetable stock
+fish stock
+liquid smoke,liquid mesquite smoke
+stock
+vegetable broth
+water
+ice
+club soda
+seltzer
+coffee
+green tea
+black tea, Lapsang Souchong
+**Juices,4.0
+passion fruit puree,tropical puree
+maple syrup
+cane syrup
+apple cider
+lemon juice
+lime juice
+white grape juice
+orange juice
+vegetable juice, tomato juice,v-8 juice
+honey
+molasses
+chocolate syrup
+**Vinegar Wine and Alchohol
+port
+scotch
+vinaigrette
+sake
+brandy
+cognac
+whiskey,whisky
+rum
+grappa
+sparkling cider
+pickle juice
+balsamic vinegar
+vermouth
+beer,tequila,quervo
+vodka
+mexican lager
+harp lager
+negro mordelo
+pernod
+banana liqueur
+melon liqueur
+merlot wine
+red wine,marsala,burgandy,red Cabernet Sauvignon
+red wine vinegar
+rice vinegar,rice wine vinegar
+sherry
+vinegar
+white vinegar
+schnapps
+white wine, wine,ale,bourbon,kentucky bourbon,madeira
+cider vinegar
+hard cider
+gin
+**Soup and Stew,2.0
+kitchen bouquet,gravy,browning sauce,brown sauce
+minestrone
+mushroom soup
+onion soup
+chili
+stew
+cream of chicken
+*Spices Herbs Seasonings and Sauces
+**Grease and Fat,0.3
+olive oil
+duck fat
+white truffle oil
+lard
+roux
+foie gras
+shortening
+vegetable oil,oil,canola oil
+corn oil
+bacon drippings
+**Sauces,0.3
+sambal oelek, sambal, samba oelek
+harissa
+chili paste,chile paste
+sesame paste
+chipotle paste
+tom yam hot and sour paste
+savory
+pistou
+stir-fry sauce
+rustic rub,rub
+sambal oelek
+adobo
+tahini
+smoked sweet mole
+barbeque sauce,bar-b-que sauce,barbecue sauce,bbq sauce,woodyard original sauce
+annato seed paste
+anchovy paste
+chile sauce,hot sauce,picante sauce,sriracha sauce,mexican sauce,tabasco,green sauce,sriracha,rouille
+enchilada sauce
+taco sauce
+ketchup
+cocktail sauce
+mango chutney
+ranch dressing
+sloppy joe sauce
+soy sauce,fish sauce,hoisin sauce
+teriyaki sauce
+puttanesca sauce
+steak sauce
+pesto
+marinara
+wasabi
+salsa
+worcestershire
+yellow mustard
+dijon mustard
+dry mustard,mustard
+vanilla
+mirin
+guacamole
+**Sweetener,0.5
+baking chocolate,semisweet chocolate chip,bittersweet chocolate,unsweetened chocolate,chocolate
+baking cocoa,unsweetened cocoa,cacao,cocoa,cocoa powder
+brown sugar
+peen tong
+hot chocolate mix
+orzo
+white sugar,sugar,glucose,splenda
+**Salt and Pepper,0.1
+celery salt
+salt,sea salt,fleur de sel
+salt and pepper,salt and freshly ground black pepper
+pepper,black pepper
+**Spices,0.1
+meat tenderizer
+sorrel
+mixed spice
+epazote
+achiote,achiote powder
+fenugreek seeds
+flax seed
+file powder
+zatar
+coconut
+turmeric,tumeric
+emeril's southwest essence,essence,southwest seasoning
+star anise
+mace
+white peppercorn,peppercorn
+chive
+fresh parsley,parsley
+lovage
+chervil,chevril
+barley
+baby arugula,arugula
+lemon grass
+herbs de provence,fines herbs,herbes de provence,herbs
+dill,dill weed
+caper
+garlic
+ginger
+galangal
+coriander,cilantro
+porcini powder
+asafoetida powder
+saffron
+basil
+bay leaf,bay leaves
+cajun seasoning,cajun
+cayenne pepper,cayenne
+red pepper
+cardamom pod, cardamom
+chili powder,chile powder,chipotle powder,ground chipotle
+cinnamon
+cinnamon stick
+clove,whole clove
+cumin
+curry powder
+garlic powder
+mint
+mustard powder
+nutmeg
+onion powder
+oregano
+paprika
+rosemary
+sage
+thyme
+masala
+allspice,jamaica pepper,all spice,five-spice
+wasabe
+italian seasoning,goya adobo,seasoning,chili seasoning mix,sabor italia,bouquet,special spice,italian herb
+miso
+marjoram
+orange zest,zest of one medium orange
+tarragon
+pumpkin pie spice
+taco seasoning
+baking soda
+baking powder
+curry leaves, fresh curry
+**Weird Spices,0.1
+red food coloring
+blue food coloring
+yellow food coloring
+cooking spray
+alder wood
+*Grain,3.0
+**Bread
+stuffing
+cracker
+asiago crostini,crostini
+crouton
+croute
+panini
+brioche
+baguette
+pie crust,crust
+ciabatta
+pretzel rods
+pita chips,pita
+crescent roll
+brown and serve roll,rolls
+matzoh ball,matzo ball
+wanton,wonton
+sourdough round,sourdough
+french bread,bread,toast
+tortilla
+kataifi
+bun,hot dog bun
+cornbread
+french bread
+biscuit
+muffin mix
+burger roll
+**Corn and Wheat
+cornmeal,masa harina
+polenta
+bulgur wheat,bulgur
+flour
+semolina
+yeast
+matzo meal,matzoh meal
+buckwheat
+cornstarch
+**Chips Crumbs and Grits
+grits,hominy
+bread crumb
+Kellogg's* All-Bran* Original cereal
+okra
+tortilla chip,chips
+vegetable protein,monosodium glutamate,dextrose
+ascorbic acid
+corn chip
+**Rice
+jasmine rice
+rice,uncooked rice
+brown rice
+**Other Grain
+quinoa
+oats
+**Pasta
+trahana
+madaleine
+yam noodles
+cellophane noodles
+yaki-soba
+udon noodle,udon
+egg noodles
+wanton wrapper,wrapper
+nori,seaweed,kombu,kelp
+konbu
+couscous
+fettuccine,angel hair,macaroni,pasta,pastina,fettucine,rivel
+penne
+linguini
+spaghetti,noodle
+fregola
+vermicelli
+ditalini pasta
+tortellini
+*Seeds and Nuts
+**Seeds,0.1
+fennel seed
+sesame seed
+caraway seed
+annatto seed,annatto
+sunflower seed
+**Nuts,0.1
+almond
+cashew
+pine nut,pignoli
+peanut
+roasted peanut
+peanut butter
+chestnut
+macadamia nut
+hazelnut
+walnut
+pistachio
+carmelized pecan,pecan
+pastry dough
+amaretti
